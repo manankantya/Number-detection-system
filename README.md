@@ -15,10 +15,10 @@ It allows you to draw/write digits in front of your webcam, and the model predic
 ---
 
 ## 📂 Project Structure
-├── Number_Detection.py    # Main script (model + real-time recognition)
-├── enhanced_mnist_model.h5      # Saved trained model (auto-created after training)
-├── requirements.txt             # Dependencies
-└── README.md                    # Project documentation
+--Number_Detection.py          # Main script (model + real-time recognition)
+--enhanced_mnist_model.h5      # Saved trained model (auto-created after training)
+--requirements.txt             # Dependencies
+--README.md                    # Project documentation
 
 ---
 
